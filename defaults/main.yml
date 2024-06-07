@@ -14,6 +14,8 @@ os_supported_matrix:
     min_version: "7"
   CentOS:
     min_version: "7"
+  Rocky:
+    min_version: "7"
   Fedora:
     min_version: ""
   Amazon:
